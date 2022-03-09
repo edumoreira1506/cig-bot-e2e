@@ -1,0 +1,15 @@
+{
+	"name": "cig-bot-e2e",
+	"version": "0.1.0",
+	"description": "",
+	"main": "",
+	"scripts": {
+	},
+	"repository": {},
+	"author": "Eduardo Moreira",
+	"license": "ISC",
+	"bugs": {},
+	"homepage": "",
+	"dependencies": {},
+	"devDependencies": {}
+}
