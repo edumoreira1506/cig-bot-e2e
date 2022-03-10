@@ -4,7 +4,8 @@
 	"description": "",
 	"main": "",
 	"scripts": {
-		"start": "cypress open"
+		"start": "cypress open",
+		"lint": "eslint"
 	},
 	"repository": {},
 	"author": "Eduardo Moreira",
