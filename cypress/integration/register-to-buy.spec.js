@@ -59,7 +59,7 @@ it('From register to buy a poultry', () => {
 
   cy.contains(poultry.name).click();
   cy.scrollTo('bottom');
-  cy.contains('Fazer proposta').click();
+  cy.contains('Fazer proposta').click({ force: true });
   cy.fillSwalInput('3000');
   cy.aceeptSwal();
   cy.fillSwalInput('Bacanudo');
